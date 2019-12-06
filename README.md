@@ -4,7 +4,7 @@
 * [Twitter](https://twitter.com/ShantoShahriar)
 * [LinkedIn](https://www.linkedin.com/in/ShahriarShanto)
 * [GitHub](https://github.com/ShahriarShanto)
-* 
+
 ## Education
 [Department of Electonics & Telecommunication Engineering (ETE)](http://ete.ruet.ac.bd/)
 [Rajshahi University of Engineering & Technology (RUET)](http://ruet.ac.bd/)
