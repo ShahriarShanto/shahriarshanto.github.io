@@ -4,6 +4,8 @@
 * [Twitter](https://twitter.com/ShantoShahriar)
 * [LinkedIn](https://www.linkedin.com/in/ShahriarShanto)
 * [GitHub](https://github.com/ShahriarShanto)
+* [Telegram](https://t.me/ShahriarShanto)
+* [Personal Site](https://sites.google.com/view/shahriar-shanto)
 
 #### Education
 [Department of Electonics & Telecommunication Engineering (ETE)](http://ete.ruet.ac.bd/)
